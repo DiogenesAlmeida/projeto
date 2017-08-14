@@ -1,3 +1,4 @@
 Public class Historia{
-	String titulo;
+	
+	String sinopse;
 }
